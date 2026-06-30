@@ -4,7 +4,7 @@ Ciência da Computação - PUC Minas
 
 Data Science e Big Data
 
-4° Semestre
+4° Semestre - 2026
 
 O projeto analisa se a má qualidade do sono atua como um fator de influência ou agravamento para a ansiedade e depressão. Diante do aumento global dos transtornos de humor e de rotinas que negligenciam o descanso, realizamos a pesquisa com o intuito de entender o papel do sono na desregulação emocional. A motivação surge da busca por evidências que correlacionem horas de sono a doenças mentais.
 
