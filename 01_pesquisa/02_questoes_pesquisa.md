@@ -1,11 +1,7 @@
 # Questões de pesquisa
 
-Registrar as perguntas que orientam o estudo.
+O estudo buscará responder às seguintes questões de pesquisa:
 
-## Texto inicial sugerido
-As questões de pesquisa devem delimitar claramente o foco da investigação e orientar tanto a busca bibliográfica quanto a análise dos resultados.
-
-## Estrutura sugerida
-- QP1:
-- QP2:
-- QP3:
+- QP1: Em que medida a qualidade do sono está associada à gravidade dos sintomas de ansiedade e depressão na população estudada?
+- QP2: Existe uma diferença estatisticamente significativa nos níveis de bem-estar psicológico e saúde mental entre indivíduos classificados entre bom sono e mau sono?
+- QP3: As pessoas que já estão medicadas têm alguma melhora no sono e sua pontuação de ansiedade/depressão?
