@@ -1,0 +1,25 @@
+Primeiro eu importei as bibliotecas que seriam usadas no projeto. Usei o Pandas para ler e manipular o dataset, o Matplotlib para criar os gráficos e o Scikit-learn para fazer o treinamento e a avaliação do modelo de Machine Learning.
+
+Depois carreguei o arquivo CSV e utilizei algumas funções para conhecer melhor o dataset. Com o head() visualizei as primeiras linhas, com o info() verifiquei os tipos de dados de cada coluna e com o describe() obtive um resumo estatístico das variáveis numéricas.
+
+Em seguida fiz uma análise estatística mais completa, mostrando a média, a mediana, o desvio padrão e os valores mínimos e máximos das colunas numéricas. Essa etapa serviu para entender melhor como os dados estavam distribuídos.
+
+Como o dataset não tinha uma variável pronta para classificação, criei uma nova coluna chamada Alta_Ansiedade. Nela, defini que toda pessoa com pontuação de ansiedade maior ou igual a 7 seria classificada como alta ansiedade e as demais como baixa ansiedade.
+
+Depois removi a coluna original de pontuação da ansiedade, porque ela foi usada para criar a variável-alvo. Se ela continuasse no dataset, o modelo teria acesso à resposta correta e isso deixaria os resultados incorretos.
+
+Também converti todas as colunas que tinham texto em números usando o LabelEncoder, já que os algoritmos de Machine Learning trabalham apenas com valores numéricos.
+
+Na etapa seguinte separei os dados em treino e teste. Utilizei 70% dos registros para treinar o modelo e 30% para testar se ele conseguia fazer boas previsões com dados que ainda não tinha visto.
+
+O modelo escolhido foi a Random Forest, porque é um algoritmo bastante utilizado em problemas de classificação e costuma apresentar bons resultados nesse tipo de dataset.
+
+Depois treinei o modelo com os dados de treinamento e utilizei os dados de teste para fazer as previsões.
+
+Para avaliar o desempenho do modelo calculei a acurácia, a precisão, o recall e o F1-Score. Também gerei a matriz de confusão e o relatório de classificação para analisar os acertos e erros das previsões.
+
+Em seguida analisei a importância das variáveis para identificar quais características tiveram maior influência nas decisões do modelo.
+
+Por último realizei três experimentos diferentes. No primeiro aumentei a quantidade de árvores da Random Forest de 100 para 300 para verificar se o desempenho melhorava. No segundo limitei a profundidade máxima das árvores para observar se isso reduzia o overfitting. No terceiro alterei a divisão entre treino e teste para 80% e 20% e comparei os resultados com a execução inicial.
+
+No final comparei a acurácia de todos os experimentos para identificar qual configuração apresentou o melhor desempenho e, com isso, consegui analisar como pequenas alterações nos parâmetros podem influenciar os resultados de um modelo de Machine Learning.
