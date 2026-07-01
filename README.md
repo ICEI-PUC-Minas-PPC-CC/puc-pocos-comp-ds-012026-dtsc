@@ -34,8 +34,12 @@ O objetivo geral é analisar o impacto da qualidade do sono nos níveis de ansie
 
 
 Quantidade de registros: Existem 1200 registros
+
 Quantidade de atributos: Existem 21 atributos
+
 Descrição das principais variáveis: Idade, genêro, horas de sono, status de trabalho, distúrbios mentais presentes, nível de educação e nível de estresse.
+
 Variável-alvo: Horas de sono e score de depressão/ansiedade
+
 Tipo do problema: Classificação.
 
