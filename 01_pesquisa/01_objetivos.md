@@ -1,17 +1,10 @@
 # Objetivos
 
 ## Objetivo geral
-Descrever, em um parágrafo, o propósito central da pesquisa.
+Esta pesquisa tem como objetivo geral investigar a influência da qualidade do sono nos níveis de ansiedade e depressão, considerando o contexto atual de aumento dos transtornos de humor e rotinas de longas e cansativas, com foco em identificar como a falta do sono agrava esses sintomas.
 
 ## Objetivos específicos
-- Listar os objetivos específicos que conduzem ao objetivo geral.
-- Cada objetivo deve ser claro, verificável e coerente com o problema proposto.
-
-## Texto inicial sugerido
-Esta pesquisa tem como objetivo geral investigar [tema], considerando [contexto], com foco em [resultado esperado].
-
-Para atingir esse objetivo geral, foram definidos os seguintes objetivos específicos:
-- identificar ...
-- analisar ...
-- comparar ...
-- propor ...
+- Identificar os principais hábitos e distúrbios do sono no público-alvo selecionado.
+- Analisar a prevalência e a severidade dos sintomas de ansiedade e depressão entre os participantes da pesquisa.
+- Comparar os níveis de saúde mental dos indivíduos que apresentam boa qualidade de sono com aqueles que têm uma má qualidade.
+- Propor diretrizes de higiene do sono baseadas nos resultados obtidos.
